@@ -6,9 +6,9 @@
 
 NOT: Projeyi indirdikten sonra projede bulunan sql sınıfındaki veritabanı bağlantısını kendi veritabanı bağlantınız ile değiştiriniz.
 
-HASTA TC:11111111111   ŞİFRE:1
-DOKTOR TC:11111111111  ŞİFRE:1
-SEKRETER TC:11111111111  ŞİFRE:1
+(HASTA TC:11111111111   ŞİFRE:1)***
+(DOKTOR TC:11111111111  ŞİFRE:1)***
+(SEKRETER TC:11111111111  ŞİFRE):1
 
 ** HASTANE OTOMASYONU **
 
