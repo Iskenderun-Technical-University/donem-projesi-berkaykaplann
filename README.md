@@ -4,7 +4,7 @@
 
 
 
-NOT: Projeyi indirdikten sonra projede bulunan sql sınıfındaki veritabanı bağlantısını kendi veritabanı bağlantınız ile değiştiriniz.
+NOT: Projeyi indirdikten sonra projede bulunan sqlbaglanti sınıfındaki veritabanı bağlantısını kendi veritabanı bağlantınız ile değiştiriniz.
 
 (HASTA TC:11111111111   ŞİFRE:1)***
 (DOKTOR TC:11111111111  ŞİFRE:1)***
